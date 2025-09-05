@@ -13,3 +13,8 @@ Hope it works well!
 
 
 ![Maagi](image.png)
+
+
+## Hugo Resources
+
+https://gohugo.io/documentation/
