@@ -10,3 +10,6 @@ Testing building a website with Hugo.
 Hope it works well!
 
 - June from the past
+
+
+![Maagi](image.png)
