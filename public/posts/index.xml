@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcome to Megiland</title>
-    <link>https://topfuelbread.github.io/junedotcom/posts/</link>
-    <description>Recent content in Posts on Welcome to Megiland</description>
+    <title>Posts on Terminal</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 05 Sep 2025 16:01:23 -0400</lastBuildDate>
-    <atom:link href="https://topfuelbread.github.io/junedotcom/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://topfuelbread.github.io/junedotcom/posts/my-first-post/</link>
-      <pubDate>Fri, 05 Sep 2025 16:01:23 -0400</pubDate>
-      <guid>https://topfuelbread.github.io/junedotcom/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;&#xA;&lt;p&gt;Testing building a website with Hugo.&lt;/p&gt;&#xA;&lt;p&gt;Hope it works well!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;June from the past&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;Maagi&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-resources&#34;&gt;Hugo Resources&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;https://gohugo.io/documentation/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
