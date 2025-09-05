@@ -1,7 +1,18 @@
 baseurl = "/"
 languageCode = "en-us"
+
 theme = "terminal"
+
+
+
+##########
+
+# THEME - Terminal #
+
+##########
+
 pagination.pagerSize = 5
+
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
@@ -16,7 +27,7 @@ pagination.pagerSize = 5
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
   fullWidthTheme = false
@@ -37,11 +48,11 @@ pagination.pagerSize = 5
   # updatedDatePrefix = "Updated"
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  readingTime = true # default is false
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = true # default is false
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
@@ -59,7 +70,7 @@ pagination.pagerSize = 5
   # Default value (no changes needed):
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
-  # dateFormat = "2006-01-02 3:04:06 PM MST"
+  dateFormat = "2006-01-02 3:04:06 PM"
 
 
 [params.twitter]
@@ -71,8 +82,8 @@ pagination.pagerSize = 5
 
 [languages]
   [languages.en]
-    languageName = "English"
-    title = "Terminal"
+    languageName = "Megilanguage"
+    title = "Welcome to Megiland"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -90,23 +101,52 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "An Ultimate Data Form Project"
         logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About"
+          name = "TODO Menu1"
           url = "/about"
         [[languages.en.menu.main]]
           identifier = "showcase"
-          name = "Showcase"
+          name = "TODO Menu2"
           url = "/showcase"
 
 [module]
 [[module.imports]]
   path = 'terminal'
 
+
+
+##########
+
+# CACHES # https://gohugo.io/configuration/caches/
+
+##########
+
+
+
 [caches]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.getcsv]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.getresource]
+    dir = ':cacheDir/:project'
+    maxAge = -1
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.misc]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxAge = -1

@@ -1,6 +1,6 @@
 +++
 date = '2025-09-05T16:01:23-04:00'
-draft = true
+draft = false
 title = 'My First Post'
 +++
 
@@ -18,3 +18,15 @@ Hope it works well!
 ## Hugo Resources
 
 https://gohugo.io/documentation/
+
+
+## Journey
+
+### 15:09
+
+I forgot that building a website == frontend work ToT
+
+
+### 15:23
+TODO https://gohugo.io/content-management/organization/
+I feel old

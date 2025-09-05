@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Welcome to Megiland</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Welcome to Megiland</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 16:01:23 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 05 Sep 2025 16:01:23 -0400</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;&#xA;&lt;p&gt;Testing building a website with Hugo.&lt;/p&gt;&#xA;&lt;p&gt;Hope it works well!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;June from the past&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;Maagi&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-resources&#34;&gt;Hugo Resources&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;https://gohugo.io/documentation/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;journey&#34;&gt;Journey&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1509&#34;&gt;15:09&lt;/h3&gt;&#xA;&lt;p&gt;I forgot that building a website == frontend work ToT&lt;/p&gt;&#xA;&lt;h3 id=&#34;1523&#34;&gt;15:23&lt;/h3&gt;&#xA;&lt;p&gt;TODO &lt;a href=&#34;https://gohugo.io/content-management/organization/&#34;&gt;https://gohugo.io/content-management/organization/&lt;/a&gt;&#xA;I feel old&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
