@@ -150,3 +150,18 @@ pagination.pagerSize = 5
   [caches.modules]
     dir = ':cacheDir/modules'
     maxAge = -1
+
+
+##########
+
+# Disque # 
+
+##########
+
+[services]
+  [services.disqus]
+    shortname = 'topfuelbread'
+
+[privacy]
+  [privacy.disqus]
+    disable = false
