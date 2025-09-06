@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 copyright = "©Megiland 2025"
-# theme = "terminal"
+theme = "terminal"
 
 sectionPagesMenu = 'main'
 
