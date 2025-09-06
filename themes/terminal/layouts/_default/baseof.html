@@ -5,8 +5,12 @@
     <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
   {{ end }}
   {{ partial "head.html" . }}
+
 </head>
 <body>
+
+  <div id="emoji-rain" class="emoji-rain"> </div>
+
 {{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond ($.Site.Params.CenterTheme | default false) "container center" "container") }}
 
 <div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default false) " headings--one-size" "" }}">
@@ -24,4 +28,15 @@
 </div>
 
 </body>
+
+
+  {{ with resources.Get "js/animate.js" }}
+
+<script src="{{ .RelPermalink | relURL }}"></script>
+{{ end }}
+
+  {{ with resources.Get "js/emoji-rain.js" }}
+
+<script src="{{ .RelPermalink | relURL }}"></script>
+{{ end }}
 </html>

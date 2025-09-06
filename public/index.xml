@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>©Megiland 2025</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 14:01:56 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 17:35:23 -0400</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-09-06</title>
+      <link>/posts/2025-09-06/</link>
+      <pubDate>Sat, 06 Sep 2025 17:35:23 -0400</pubDate>
+      <guid>/posts/2025-09-06/</guid>
+      <description>&lt;h3 id=&#34;1735&#34;&gt;17:35&lt;/h3&gt;&#xA;&lt;p&gt;This website is great!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cameronsworld.net/&#34;&gt;https://www.cameronsworld.net/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Just realized that my website is missing a bgm!!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hugo</title>
       <link>/resources/hugo/</link>
@@ -21,13 +28,13 @@
       <link>/posts/2025-09-05/</link>
       <pubDate>Fri, 05 Sep 2025 16:01:23 -0400</pubDate>
       <guid>/posts/2025-09-05/</guid>
-      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;&#xA;&lt;p&gt;Testing building a website with Hugo.&lt;/p&gt;&#xA;&lt;p&gt;Hope it works well!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;June from the past&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;Maagi&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-resources&#34;&gt;Hugo Resources&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;https://gohugo.io/documentation/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;CLI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/commands/hugo_mod/&#34;&gt;https://gohugo.io/commands/hugo_mod/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;journey&#34;&gt;Journey&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1509&#34;&gt;15:09&lt;/h3&gt;&#xA;&lt;p&gt;I forgot that building a website == frontend work ToT&lt;/p&gt;&#xA;&lt;h3 id=&#34;1523&#34;&gt;15:23&lt;/h3&gt;&#xA;&lt;p&gt;TODO &lt;a href=&#34;https://gohugo.io/content-management/organization/&#34;&gt;https://gohugo.io/content-management/organization/&lt;/a&gt;&#xA;I feel old&lt;/p&gt;&#xA;&lt;h3 id=&#34;1529&#34;&gt;15:29&lt;/h3&gt;&#xA;&lt;p&gt;This theme is kind of cute too&#xA;&lt;a href=&#34;https://github.com/goodroot/hugo-classic?tab=readme-ov-file&#34;&gt;https://github.com/goodroot/hugo-classic?tab=readme-ov-file&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;1542&#34;&gt;15:42&lt;/h3&gt;&#xA;&lt;p&gt;Theme Terminal: &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal/tree/master&#34;&gt;https://github.com/panr/hugo-theme-terminal/tree/master&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  // your code here&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;&#xA;&lt;p&gt;Testing building a website with Hugo.&lt;/p&gt;&#xA;&lt;p&gt;Hope it works well!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;June from the past&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;maagi.png&#34; alt=&#34;Maagi&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-resources&#34;&gt;Hugo Resources&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;https://gohugo.io/documentation/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;CLI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/commands/hugo_mod/&#34;&gt;https://gohugo.io/commands/hugo_mod/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;journey&#34;&gt;Journey&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1509&#34;&gt;15:09&lt;/h3&gt;&#xA;&lt;p&gt;I forgot that building a website == frontend work ToT&lt;/p&gt;&#xA;&lt;h3 id=&#34;1523&#34;&gt;15:23&lt;/h3&gt;&#xA;&lt;p&gt;TODO &lt;a href=&#34;https://gohugo.io/content-management/organization/&#34;&gt;https://gohugo.io/content-management/organization/&lt;/a&gt;&#xA;I feel old&lt;/p&gt;&#xA;&lt;h3 id=&#34;1529&#34;&gt;15:29&lt;/h3&gt;&#xA;&lt;p&gt;This theme is kind of cute too&#xA;&lt;a href=&#34;https://github.com/goodroot/hugo-classic?tab=readme-ov-file&#34;&gt;https://github.com/goodroot/hugo-classic?tab=readme-ov-file&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;1542&#34;&gt;15:42&lt;/h3&gt;&#xA;&lt;p&gt;Theme Terminal: &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal/tree/master&#34;&gt;https://github.com/panr/hugo-theme-terminal/tree/master&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  // your code here&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/about/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;&#xA;&lt;p&gt;404 NOT FOUND&lt;/p&gt;</description>
     </item>
   </channel>

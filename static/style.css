@@ -1,1 +1,60 @@
-/* overwrite theme */
+.content {
+  border: black;
+}
+
+.post-content {
+  padding: 10px;
+}
+
+.post-title {
+}
+
+.rainbow-animated {
+  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  background-size: 200% 100%; /* Make the gradient wider than the element */
+  animation: rainbow-shift 5s linear infinite; /* Animate the background position */
+}
+
+@keyframes rainbow-shift {
+  0% {
+        transform: rotate(0deg);
+
+    background-position: 0% 0%; 
+  }
+  100% {
+        transform: rotate(360deg);
+
+    background-position: 100% 0%; 
+}
+}
+
+.emoji-rain {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.emoji {
+    position: absolute;
+    font-size: 2rem;
+    animation: fall 5s linear infinite;
+}
+
+@keyframes fall {
+    0% {
+        transform: translateY(-100px);
+    }
+    100% {
+        transform: translateY(100vh);
+    }
+}
+
+#animate{
+  margin: 0 auto;
+  width: 20px;
+  overflow: visible;
+  position: relative;
+}
