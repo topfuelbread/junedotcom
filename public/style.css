@@ -60,9 +60,9 @@
 }
 
 .outside-container {
-  display: flex;  /* Use flexbox to position elements */
-  justify-content: space-between;  /* Space out the elements evenly */
-  align-items: flex-start;  /* Align them to the top of the container */
+  display: flex; 
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .left-side {
@@ -75,11 +75,10 @@
   padding: 10px;
 }
 
-.container {
-  flex-grow: 1; /* Make the main content section take up the remaining space */
-  padding: 20px;
-}
-
 .side-bar {
   margin-top:100px;
+}
+
+.container {
+  max-width: max-content;
 }

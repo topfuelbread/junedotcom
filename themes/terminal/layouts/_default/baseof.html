@@ -11,14 +11,10 @@
 
 <body>
   <div class="outside-container">
-    <div class="container">
       <div class="left-side side-bar">
-        <div class="content">
           {{ partial "left-side.html" . }}
-        </div>
       </div>
-
-    </div>
+    
     {{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond
     ($.Site.Params.CenterTheme | default false) "container center" "container") }}
     <div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default false) " headings--one-size" "" }}">
