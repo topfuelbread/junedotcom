@@ -6,9 +6,6 @@
   padding: 10px;
 }
 
-.post-title {
-}
-
 .rainbow-animated {
   background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   background-size: 200% 100%; /* Make the gradient wider than the element */
