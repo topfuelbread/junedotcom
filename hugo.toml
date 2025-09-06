@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-
+copyright = "Copyright TODO 2025"
 # theme = "terminal"
 
 
@@ -24,7 +24,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = true
@@ -86,16 +86,16 @@ pagination.pagerSize = 5
     title = "Welcome to Megiland"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      subtitle = "Welcome to Megiland"
+      owner = "June"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
+      olderPosts = "Delve depper into past"
+      missingContentMessage = "Page not found... :D"
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"
       words = "words"
@@ -110,9 +110,13 @@ pagination.pagerSize = 5
           name = "TODO Menu1"
           url = "/about"
         [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "TODO Menu2"
-          url = "/showcase"
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
+        [[languages.en.menu.main]]
+          identifier = "resources"
+          name = "Resources"
+          url = "/resources"
 
 [module]
   # this is needed when you fetch the theme as a submodule to your repo.
