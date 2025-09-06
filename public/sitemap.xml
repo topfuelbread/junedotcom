@@ -11,10 +11,19 @@
     <loc>/resources/</loc>
     <lastmod>2025-09-06T14:01:56-04:00</lastmod>
   </url><url>
+    <loc>/tags/2025-09/</loc>
+    <lastmod>2025-09-05T16:01:23-04:00</lastmod>
+  </url><url>
     <loc>/posts/2025-09-05/</loc>
     <lastmod>2025-09-05T16:01:23-04:00</lastmod>
   </url><url>
+    <loc>/tags/diary/</loc>
+    <lastmod>2025-09-05T16:01:23-04:00</lastmod>
+  </url><url>
     <loc>/posts/</loc>
+    <lastmod>2025-09-05T16:01:23-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2025-09-05T16:01:23-04:00</lastmod>
   </url><url>
     <loc>/about/about/</loc>
@@ -22,7 +31,5 @@
     <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
