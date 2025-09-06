@@ -98,7 +98,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "An Ultimate Data Form Project"
+        logoText = "The Ultimate Web Data Form Project"
         logoHomeLink = "/"
 
       [languages.en.menu]
