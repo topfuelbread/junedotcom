@@ -2,13 +2,12 @@
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = "{{ .Date }}"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "June"
 cover = ""
-tags = ["", ""]
-keywords = ["", ""]
+tags = ["diary", "2025-09"]
+keywords = [""]
 description = ""
-showFullContent = false
+showFullContent = true
 readingTime = false
 hideComments = false
 +++
