@@ -4,25 +4,31 @@
 
 .post-content {
   padding: 10px;
+  background-color: rgba(0, 255, 255, 0.082);
+
+}
+
+.post-meta {
+  text-align: end;
+}
+
+.post-tags {
+  text-align: end;
+}
+
+.rotating {
+    animation: rotate 1s infinite;
+}
+
+@keyframes rotate {
+   from { transform: rotate(0deg); }
+   to { transform: rotate(360deg); }
 }
 
 .rainbow-animated {
   background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   background-size: 200% 100%; /* Make the gradient wider than the element */
-  animation: rainbow-shift 5s linear infinite; /* Animate the background position */
-}
-
-@keyframes rainbow-shift {
-  0% {
-        transform: rotate(0deg);
-
-    background-position: 0% 0%; 
-  }
-  100% {
-        transform: rotate(360deg);
-
-    background-position: 100% 0%; 
-}
+  animation: rotate 5s linear infinite; /* Animate the background position */
 }
 
 .emoji-rain {
@@ -49,12 +55,6 @@
     }
 }
 
-#animate{
-  margin: 0 auto;
-  width: 20px;
-  overflow: visible;
-  position: relative;
-}
 
 .outside-container {
   display: flex; 
@@ -77,5 +77,6 @@
 }
 
 .container {
-  max-width: max-content;
+  max-width: 800px;
 }
+

@@ -39,9 +39,6 @@
 </body>
 
 
-{{ with resources.Get "js/animate.js" }}
-<script src="{{ .RelPermalink | relURL }}"></script>
-{{ end }}
 
 {{ with resources.Get "js/emoji-rain.js" }}
 <script src="{{ .RelPermalink | relURL }}"></script>

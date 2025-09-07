@@ -88,7 +88,7 @@ pagination.pagerSize = 5
       keywords = ""
       copyright = ""
       menuMore = "Show more"
-      # readMore = "Read more"
+      readMore = "Read more (why can't i disable this button???!?)"
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
       olderPosts = "Delve depper into past"
@@ -99,7 +99,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "The Ultimate Web Data Form Project"
-        logoHomeLink = "/"
+        logoHomeLink = "https://topfuelbread.github.io/junedotcom"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
@@ -114,12 +114,6 @@ pagination.pagerSize = 5
           identifier = "resources"
           name = "Resources"
           url = "/resources"
-
-# [module]
-#   # this is needed when you fetch the theme as a submodule to your repo.
-#   # replacements = "github.com/panr/hugo-theme-terminal/4 -> themes/terminal"
-# [[module.imports]]
-#   path = 'github.com/panr/hugo-theme-terminal/v4'
 
 ##########
 
